@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(api)",
+      "Skill(strudel)",
+      "Skill(dj-set)",
+      "Skill(interactive)",
+      "Skill(tutorial)",
+      "Bash(sleep *)",
+      "Bash(say *)",
+      "Bash(curl *)"
+    ]
+  }
+}
